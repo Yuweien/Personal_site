@@ -1,4 +1,4 @@
-# Personal_site
+# Udemy Angela Yu's Web Developer class
 This is a practice of Angela Yu's Full-Stack Web Developer class
 
 <h2>Learning Summary</h2>
