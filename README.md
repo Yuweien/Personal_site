@@ -1,5 +1,4 @@
-# Full-Stack Web Development
-
+# Udemy Angela Yu's Web Developer Class
 This is a practice of Angela Yu's Full-Stack Web Developer class
 
 <h2>Learning Summary</h2>
