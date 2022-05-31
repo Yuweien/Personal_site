@@ -41,3 +41,15 @@ This is a practice of Angela Yu's Full-Stack Web Developer class
         <li>&lt;form action="mailto: wangyw@email.arizona.edu" method="post" enctype = "text/plain"&gt;</li>
       </ul>
 </ul>
+
+<h3>Section 4: Introduction to CSS</h3>
+  <p>Priorities to use CSS: inline(in body) > internal(in head) > external(in css files)</p>
+  <ul>
+    <li><strong>Google browser default CSS documentation</strong></li>
+    <li><strong>Add CSS file and add link to the header of the index.html</strong></li>
+    <li><strong>Basic grammar: selecter { property: value; }</strong></li>
+      <ul>
+        <li>Where to find the properties of the selecters? https://developer.mozilla.org/en-US/docs/Web/CSS/Reference</li>
+      </ul>
+
+  </ul>
