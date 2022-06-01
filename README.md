@@ -51,5 +51,21 @@ This is a practice of Angela Yu's Full-Stack Web Developer class
       <ul>
         <li>Where to find the properties of the selecters? https://developer.mozilla.org/en-US/docs/Web/CSS/Reference</li>
       </ul>
+    <li><strong>class vs id</strong></li>
+      <ul>
+        <li>class:
+        <ul>
+        <li>class = "classname1 classname2"   
+        <li>.classname1{}   .classname2{};
+      </ul>
+        <li>id: #id{}</li>
+        <li> class and id selecters are more specific than general selecters, so that it can specify a property of an id element despite the general selecter. e.g. h1 background color</li>
+        <li>Difference:We can have repeated class names but can only have unique id names. So class can be used to group elements.
+        </li>
+      </ul>
+    <li><strong>:pseudo classes</strong></li>
+      <ul>
+        <li>image:hover{background-color: gold;}
+      </ul>
 
   </ul>
