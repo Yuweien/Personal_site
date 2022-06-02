@@ -1,0 +1,35 @@
+
+body {
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+    padding: 100px;
+    width: 20%;
+    margin: 50px auto 0 auto;
+    padding-top:75px;
+}
+p{
+  margin: 0;
+  padding:0px 100px 100px;
+}
+
+.top-bar {
+  background-color: #4B6587;
+  height:50px;
+  width: 100%;
+  top: 0;
+  position:fixed
+}
+
+.top-container {
+  background-color: #F7F6F2;
+  height: 250px;
+}
+
+.middle-container {
+  background-color: #C8C6C6;
+  height: 1000px;
+  width: 100%;
+}

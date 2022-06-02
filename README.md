@@ -67,5 +67,21 @@ This is a practice of Angela Yu's Full-Stack Web Developer class
       <ul>
         <li>image:hover{background-color: gold;}
       </ul>
-
+  </ul>
+<h3>Section 5: Intermediate CSS: display, positioning</h3>
+  <ul>
+  <li><strong>Inline display elements</strong>: &lt;span&gt;some elements&lt;/span&gt;</li>
+  <li>Other inline display elements: img, a
+  <li>We can <strong>change a box display elements to inline display elements</strong>. For example, &lt;p&gt;is a box display element, by adding a property display:inline, it turns into an inline display element. The same for inline elements turning to box elements.
+  <li>Another display type: <strong>inline-box</strong>. Image elements are set default in this type.
+  <li><strong>display:none;</strong> Hide the element from the page and remove its space.
+  <li><strong>visibility:hidden;</strong> Hide the element but keep its space. So there's an empty box/space for it.
+  <li><strong>relative positioning: </strong> position:relative;
+  <li>Relative positioning doesn't affect the position of anything else on screen.
+  <li><strong>Absolute positioning: </strong> positioned relative to its parent element. For example, right:20px; means the element positioned 20px to the right boarder to its parent element.
+  <li><strong>Fixed positioning: </strong> Keep the elements position when scrolling down.
+  <li><strong>Attributes of positioning</strong> </li>
+    <p>margin: 50px auto 0 auto; -- clockwise: top, right, bottom, left. </p>
+    <p>margin: 0 auto; -- top&bottom left&right.</p>
+  <li>
   </ul>
